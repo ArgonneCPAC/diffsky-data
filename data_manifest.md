@@ -41,3 +41,24 @@ Files:
 
 Download URL:
 - https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v1/lc_cores-decomposition.txt
+
+
+## Mock galaxy data
+
+Tag: `mock-galaxies-v1`
+
+Files:
+- `diffsky_cosmos_260316_05_03_2026_param_collection.hdf5`
+- `diffsky_cosmos_260316_05_03_2026_ssp_data.hdf5`
+- `diffsky_cosmos_260316_05_03_2026_t_table.hdf5`
+- `diffsky_cosmos_260316_05_03_2026_transmission_curves.hdf5`
+- `lc_cores-442.0.diffsky_gals.hdf5`
+- `lc_cores-453.0.diffsky_gals.hdf5`
+
+Download URL:
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v1/diffsky_cosmos_260316_05_03_2026_param_collection.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v1/diffsky_cosmos_260316_05_03_2026_ssp_data.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v1/diffsky_cosmos_260316_05_03_2026_t_table.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v1/diffsky_cosmos_260316_05_03_2026_transmission_curves.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v1/lc_cores-442.0.diffsky_gals.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v1/lc_cores-453.0.diffsky_gals.hdf5
