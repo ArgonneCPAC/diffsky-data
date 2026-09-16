@@ -9,6 +9,7 @@ Untitled*.ipynb
 *.log
 
 HACC_data/*
+mock_galaxies/*
 
 .DS_Store
 

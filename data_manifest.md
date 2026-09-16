@@ -45,6 +45,23 @@ Download URL:
 
 ## Mock galaxy data
 
+Tag: `mock-galaxies-v2`
+
+Files:
+- `diffsky_c260710_test_09_15_2026_param_collection.hdf5`
+- `diffsky_c260710_test_09_15_2026_ssp_data.hdf5`
+- `diffsky_c260710_test_09_15_2026_t_table.hdf5`
+- `diffsky_c260710_test_09_15_2026_transmission_curves.hdf5`
+- `lc_cores-411.843.diffsky_gals.hdf5`
+- `lc_cores-411.843.diffsky_gals.synthetic_halos.hdf5`
+- `lc_cores-421.843.diffsky_gals.hdf5`
+- `lc_cores-421.843.diffsky_gals.synthetic_halos.hdf5`
+
+Download URL:
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v2/diffsky_c260710_test_09_15_2026_param_collection.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/mock-galaxies-v2/lc_cores-411.843.diffsky_gals.hdf5
+
+
 Tag: `mock-galaxies-v1`
 
 Files:
