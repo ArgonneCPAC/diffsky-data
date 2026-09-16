@@ -43,7 +43,20 @@ Download URL:
 - https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v1/lc_cores-decomposition.txt
 
 
-## Mock galaxy data
+## Mock galaxy data (OpenCosmo format)
+
+Tag: `oc-mock-galaxies-v1`
+
+Files:
+- `diffsky_c260710_test_09_15_2026_param_collection.hdf5`
+- `diffsky_c260710_test_09_15_2026_ssp_data.hdf5`
+- `diffsky_c260710_test_09_15_2026_t_table.hdf5`
+- `diffsky_c260710_test_09_15_2026_transmission_curves.hdf5`
+- `lc_cores-411.diffsky_gals.hdf5`
+- `lc_cores-421.diffsky_gals.hdf5`
+
+
+## Mock galaxy data (Diffsky-native format)
 
 Tag: `mock-galaxies-v2`
 
