@@ -56,6 +56,10 @@ Files:
 - `lc_cores-421.diffsky_gals.hdf5`
 
 
+Download URL:
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/oc-mock-galaxies-v1/diffsky_c260710_test_09_15_2026_param_collection.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/oc-mock-galaxies-v1/lc_cores-411.diffsky_gals.hdf5
+
 ## Mock galaxy data (Diffsky-native format)
 
 Tag: `mock-galaxies-v2`
