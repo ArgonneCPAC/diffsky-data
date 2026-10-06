@@ -34,6 +34,21 @@ Download URLs:
 
 ## LastJourney simulation data
 
+Tag: `hacc-data-lastjourney-v3`
+
+Files:
+- `lc_cores-decomposition.txt`
+- `lc_cores-411.843.hdf5`
+
+Download URL:
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v3/lc_cores-decomposition.txt
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v3/lc_cores-411.843.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v3/lc_cores-421.843.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v3/lc_cores-432.843.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v3/lc_cores-442.843.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v3/lc_cores-453.843.hdf5
+- https://github.com/ArgonneCPAC/diffsky-data/releases/download/hacc-data-lastjourney-v3/lc_cores-464.843.hdf5
+
 Tag: `hacc-data-lastjourney-v2`
 
 Files:
